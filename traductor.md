@@ -1,6 +1,6 @@
 # Traductor :earth_americas: :left_right_arrow: :earth_africa:
 
-## Ingles a Español :us: :left_right_arrow: :es:
+## Ingles a Español :us: :arrow_right: :es:
 
 ### [Qwen](https://chat.qwen.ai/) (2.5 Max)
 
