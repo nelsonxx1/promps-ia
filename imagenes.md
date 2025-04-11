@@ -1,4 +1,4 @@
-# Imagenes :art:
+# Imagenes :framed_picture:
 
 ## Transformar una imagen a estilo Ghibli
 
